@@ -1,0 +1,22 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Deal Bank",
+      "type": "dart",
+      "request": "launch",
+      "program": "bank/lib/main.dart",
+      "args": [],
+    },
+    {
+      "name": "Deal Invest",
+      "type": "dart",
+      "request": "launch",
+      "program": "invest/lib/main.dart",
+      "args": [],
+    },
+  ]
+}
